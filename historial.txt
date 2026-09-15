@@ -1,0 +1,7 @@
+2026-09-14 23:54:14 | AGREGÓ: Nueva habitación '3316693979' (ID 1) en estado 'Libre'
+2026-09-14 23:56:02 | AGREGÓ: Nuevo cliente 'iza' con ID '001'
+2026-09-14 23:56:35 | RESERVÓ: Cliente '001 - iza' ocupó la habitación '1'.
+2026-09-14 23:59:46 | AGREGÓ: Nueva habitación '456767767' (ID 2) en estado 'Libre'
+2026-09-15 00:00:00 | AGREGÓ: Nueva habitación '220222322' (ID 3) en estado 'Libre'
+2026-09-15 00:00:06 | EDITÓ: Habitación '1' cambió a número '331669397', estado 'Reservado'
+2026-09-15 00:00:53 | AGREGÓ: Nuevo cliente 'juan' con ID '002'
