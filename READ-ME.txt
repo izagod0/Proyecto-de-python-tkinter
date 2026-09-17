@@ -1,0 +1,20 @@
+# 🏨 Sistema de Reservaciones de Hotel
+
+Proyecto escolar desarrollado en Python con interfaz gráfica (Tkinter) 
+y arquitectura MVC.
+
+## 🎯 Funcionalidades
+- Registro, edición y eliminación de habitaciones
+- Registro, edición de clientes (con dirección, email y teléfono)
+- Creación y edición de reservaciones
+- Historial de movimientos con fecha y hora
+- IDs autoincrementales que no se repiten
+
+## 🛠️ Tecnologías
+- Python 3
+- Tkinter
+- Archivos de texto (.txt) como base de datos
+
+## ▶️ Cómo ejecutar
+```bash
+python main.py
