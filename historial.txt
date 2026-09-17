@@ -1,0 +1,25 @@
+2026-09-14 23:54:14 | AGREGÓ: Nueva habitación '3316693979' (ID 1) en estado 'Libre'
+2026-09-14 23:56:02 | AGREGÓ: Nuevo cliente 'iza' con ID '001'
+2026-09-14 23:56:35 | RESERVÓ: Cliente '001 - iza' ocupó la habitación '1'.
+2026-09-14 23:59:46 | AGREGÓ: Nueva habitación '456767767' (ID 2) en estado 'Libre'
+2026-09-15 00:00:00 | AGREGÓ: Nueva habitación '220222322' (ID 3) en estado 'Libre'
+2026-09-15 00:00:06 | EDITÓ: Habitación '1' cambió a número '331669397', estado 'Reservado'
+2026-09-15 00:00:53 | AGREGÓ: Nuevo cliente 'juan' con ID '002'
+2026-09-17 13:13:10 | EDITÓ: Habitación '1' cambió a número '331669397', estado 'Cancelado'
+2026-09-17 13:13:23 | EDITÓ: Reservación '1' del cliente '001 - iza'
+2026-09-17 13:20:08 | AGREGÓ: Nueva habitación '331669397' (ID 4) en estado 'Libre'
+2026-09-17 13:20:18 | ELIMINÓ: Habitación '4' borrada del sistema.
+2026-09-17 13:20:23 | EDITÓ: Habitación '1' cambió a número '331669397', estado 'Libre'
+2026-09-17 13:21:14 | RESERVÓ: Cliente '001 - iza' ocupó la habitación '1'.
+2026-09-17 13:36:01 | RESERVÓ: Cliente '002 - juan' ocupó la habitación '3'.
+2026-09-17 13:40:07 | EDITÓ: Habitación '1' cambió a número '101', estado 'Reservado'
+2026-09-17 13:40:16 | EDITÓ: Habitación '2' cambió a número '102', estado 'Libre'
+2026-09-17 13:40:24 | EDITÓ: Habitación '3' cambió a número '103', estado 'Reservado'
+2026-09-17 13:41:27 | EDITÓ: Habitación '3' cambió a número '103', estado 'Libre'
+2026-09-17 13:44:26 | SISTEMA: Reservación #3 de '002 - juan' eliminada de activas (Habitación 3 en estado 'Libre').
+2026-09-17 13:44:46 | EDITÓ: Habitación '1' cambió a número '101', estado 'Libre'
+2026-09-17 13:44:47 | SISTEMA: Reservación #1 de '001 - iza' eliminada de activas (Habitación 1 en estado 'Libre').
+2026-09-17 13:44:47 | SISTEMA: Reservación #2 de '001 - iza' eliminada de activas (Habitación 1 en estado 'Libre').
+2026-09-17 13:46:12 | RESERVÓ: Cliente '001 - iza' ocupó la habitación '1'.
+2026-09-17 13:47:36 | EDITÓ: Habitación '1' cambió a número '101', estado 'Libre'
+2026-09-17 13:47:37 | SISTEMA: Reservación #1 de '001 - iza' eliminada de activas (Habitación 1 en estado 'Libre').
